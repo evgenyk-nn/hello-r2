@@ -25,3 +25,5 @@ In this example, the entry point of the program is redefined from the `main` fun
 ## Running the Program
 
 5. **`./hello`**: Run the executable file **`hello`**, which outputs "Hello".
+
+![](./hello.png)
